@@ -1,2 +1,4 @@
 created text1.txt
 hi everyone
+this is indira 
+im here to learn git
